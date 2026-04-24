@@ -2,5 +2,30 @@
 
 # 域名后缀匹配
 DOMAIN-SUFFIX,baidu.com
-
+  # 个人域名与特定标识
+DOMAIN-SUFFIX,cdn.jikuohong.ggff.net
+DOMAIN-SUFFIX,wenzhou.eu.cc
+DOMAIN-KEYWORD,kont
+DOMAIN-KEYWORD,jikuohong
+  # 网盘与直连资源
+DOMAIN-SUFFIX,alipan.com
+DOMAIN-SUFFIX,aliyundrive.com
+DOMAIN-SUFFIX,quark.cn
+DOMAIN-SUFFIX,pdsapi.com
+DOMAIN-SUFFIX,115.com
+DOMAIN-SUFFIX,baidu.com
+DOMAIN-SUFFIX,baidupcs.com
+DOMAIN-SUFFIX,lanzou.com
+DOMAIN-SUFFIX,15cdn.net
+  # Cloudflare 测速与穿透
+DOMAIN-SUFFIX,cloudflare.com
+DOMAIN-SUFFIX,argotunnel.com
+DOMAIN-SUFFIX,cloudflareaccess.com
+  # 金融与支付
+DOMAIN-KEYWORD,bank
+DOMAIN-KEYWORD,unionpay
+DOMAIN-KEYWORD,alipay
+DOMAIN-KEYWORD,wechatpay
+  # PT/Tracker
+DOMAIN-KEYWORD,tracker
 
