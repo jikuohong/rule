@@ -4,9 +4,9 @@
 DOMAIN-SUFFIX,baidu.com
   # 个人域名与特定标识
 DOMAIN-SUFFIX,cdn.jikuohong.ggff.net
-DOMAIN-SUFFIX,wenzhou.eu.cc
-DOMAIN-KEYWORD,kont
-DOMAIN-KEYWORD,jikuohong
+#DOMAIN-SUFFIX,wenzhou.eu.cc
+#DOMAIN-KEYWORD,kont
+#DOMAIN-KEYWORD,jikuohong
   # 网盘与直连资源
 DOMAIN-SUFFIX,alipan.com
 DOMAIN-SUFFIX,aliyundrive.com
