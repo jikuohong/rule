@@ -9,7 +9,7 @@ DOMAIN-SUFFIX,115.com
 DOMAIN-SUFFIX,baidupcs.com
 DOMAIN-SUFFIX,lanzou.com
 DOMAIN-SUFFIX,15cdn.net
-DOMAIN-SUFFIX,cloudflare.com
+#DOMAIN-SUFFIX,cloudflare.com
 DOMAIN-SUFFIX,argotunnel.com
 DOMAIN-SUFFIX,cloudflareaccess.com
 DOMAIN-KEYWORD,bank
