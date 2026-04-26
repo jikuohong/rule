@@ -17,6 +17,7 @@ DOMAIN-SUFFIX,themoviedb.org
 DOMAIN-SUFFIX,tmdb.org
 DOMAIN-SUFFIX,thetvdb.com
 DOMAIN-SUFFIX,fanart.tv
+DOMAIN-SUFFIX,trakt.tv
 
 # 国外DNS
 DOMAIN-SUFFIX,dns.google
