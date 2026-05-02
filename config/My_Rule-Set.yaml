@@ -86,7 +86,7 @@ profile:
 external-controller: 0.0.0.0:9090
 external-ui-name: zashboard
 external-ui: ui
-secret: "Kk@13002122"
+secret: ""
 external-ui-url: https://github.com/Zephyruso/zashboard/releases/latest/download/dist-no-fonts.zip
 
 # TUN配置
