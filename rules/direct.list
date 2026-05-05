@@ -20,8 +20,12 @@ DOMAIN-KEYWORD,tracker
 
 
 
+DOMAIN-SUFFIX,tsinghua.edu.cn
 
-#DOMAIN-SUFFIX,jikuohong.club
+
+
+
+#,jikuohong.club
 #DOMAIN-SUFFIX,wenzhou.eu.cc
 #DOMAIN-SUFFIX,cdn.jikuohong.ggff.net
 #DOMAIN-SUFFIX,kont.com
