@@ -21,7 +21,7 @@ IP-CIDR,208.67.220.220/32,no-resolve
 
 
 # 代理补充列表
-DOMAIN-SUFFIX,hdhive.com
+DOMAIN-SUFFIX,hdhive.com,my_proxy
 DOMAIN-SUFFIX,ddsrem.com
 #赛博包工头
 DOMAIN-SUFFIX,besthomelab.tech
