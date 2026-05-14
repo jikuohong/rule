@@ -109,3 +109,12 @@ DOMAIN-SUFFIX,yhg007.com
 DOMAIN-SUFFIX,0magnet.co
 DOMAIN-SUFFIX,btdig.com
 
+# Discord
+DOMAIN-SUFFIX,discord.com,my_proxy
+DOMAIN-SUFFIX,discord.gg,my_proxy
+DOMAIN-SUFFIX,discord.media,my_proxy
+DOMAIN-SUFFIX,discordapp.com,my_proxy
+DOMAIN-SUFFIX,discordapp.net,my_proxy
+DOMAIN-SUFFIX,discordstatus.com,my_proxy
+DOMAIN-SUFFIX,dis.gd,my_proxy
+DOMAIN-keyword,discord,my_proxy
