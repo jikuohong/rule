@@ -28,12 +28,12 @@ DOMAIN-SUFFIX,tsinghua.edu.cn
 
 #,jikuohong.club
 #DOMAIN-SUFFIX,wenzhou.eu.cc
-#DOMAIN-SUFFIX,cdn.jikuohong.ggff.net
+
 #DOMAIN-SUFFIX,kont.com
 
 DOMAIN-SUFFIX,anxia.com
 
-DOMAIN-SUFFIX,aliyundrive.com
+
 
 
 
@@ -44,3 +44,37 @@ DOMAIN-SUFFIX,unionpay.com
 DOMAIN-SUFFIX,icloud.com
 DOMAIN-SUFFIX,apple-dns.net
 
+# 百度网盘补充
+DOMAIN-SUFFIX,baidupan.com
+DOMAIN-SUFFIX,bdstatic.com
+DOMAIN-SUFFIX,netdisk.com
+
+# 阿里云盘补充 (部分直链及API)
+DOMAIN-SUFFIX,alicloudccp.com
+DOMAIN-SUFFIX,aliyundrive.net
+
+# 夸克网盘补充
+DOMAIN-SUFFIX,quark.storage
+DOMAIN-SUFFIX,quark.com
+
+# 迅雷 (国内主力)
+DOMAIN-SUFFIX,xunlei.com
+DOMAIN-SUFFIX,thunderstore.cn
+DOMAIN-SUFFIX,sandai.net
+
+# 天翼云盘 (中国电信)
+DOMAIN-SUFFIX,189.cn
+DOMAIN-SUFFIX,ctyun.cn
+
+# 移动云盘 (中国移动)
+DOMAIN-SUFFIX,caiyun.feixin.10086.cn
+DOMAIN-SUFFIX,mcloud.139.com
+
+# 腾讯微云
+DOMAIN-SUFFIX,weiyun.com
+
+# 奶牛快传 (CowTransfer)
+DOMAIN-SUFFIX,cowtransfer.com
+
+# 坚果云 (办公同步常用)
+DOMAIN-SUFFIX,jianguoyun.com
