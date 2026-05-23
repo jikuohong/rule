@@ -36,6 +36,9 @@ DOMAIN-SUFFIX,zcvss.com
 DOMAIN-SUFFIX,nvidia.com
 # 域名关键字匹配
 DOMAIN-KEYWORD,1e100
+DOMAIN-KEYWORD,ciligou
+
+
 
 DOMAIN-SUFFIX,docker.com
 DOMAIN-SUFFIX,docker.io
