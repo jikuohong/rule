@@ -115,11 +115,11 @@ DOMAIN-SUFFIX,0magnet.co
 DOMAIN-SUFFIX,btdig.com
 
 # Discord
-DOMAIN-SUFFIX,discord.com,my_proxy
-DOMAIN-SUFFIX,discord.gg,my_proxy
-DOMAIN-SUFFIX,discord.media,my_proxy
-DOMAIN-SUFFIX,discordapp.com,my_proxy
-DOMAIN-SUFFIX,discordapp.net,my_proxy
-DOMAIN-SUFFIX,discordstatus.com,my_proxy
-DOMAIN-SUFFIX,dis.gd,my_proxy
-DOMAIN-keyword,discord,my_proxy
+DOMAIN-SUFFIX,discord.com
+DOMAIN-SUFFIX,discord.gg
+DOMAIN-SUFFIX,discord.media
+DOMAIN-SUFFIX,discordapp.com 
+DOMAIN-SUFFIX,discordapp.net 
+DOMAIN-SUFFIX,discordstatus.com 
+DOMAIN-SUFFIX,dis.gd 
+DOMAIN-keyword,discord 
