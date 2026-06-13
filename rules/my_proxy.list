@@ -21,15 +21,15 @@ IP-CIDR,208.67.220.220/32,no-resolve
 DOMAIN-SUFFIX,kont.cc.cd
 DOMAIN-SUFFIX,kont.ccwu.cc
 DOMAIN-SUFFIX,1307799.cc.cd
-DOMAIN,texxx.kont.cc.cd
-DOMAIN,163tunnel.kont.ccwu.cc
-DOMAIN,texxx.kont.ccwu.cc
-DOMAIN,joecf.pages.dev
-DOMAIN,tunnel.1307799.cc.cd
-DOMAIN,cfnew.1307799.cc.cd
-DOMAIN,cf.1307799.cc.cd
-DOMAIN,texxx-433.pages.dev
-DOMAIN,tunnel-cxp.pages.dev
+DOMAIN-SUFFIX,texxx.kont.cc.cd
+DOMAIN-SUFFIX,163tunnel.kont.ccwu.cc
+DOMAIN-SUFFIX,texxx.kont.ccwu.cc
+DOMAIN-SUFFIX,joecf.pages.dev
+DOMAIN-SUFFIX,tunnel.1307799.cc.cd
+DOMAIN-SUFFIX,cfnew.1307799.cc.cd
+DOMAIN-SUFFIX,cf.1307799.cc.cd
+DOMAIN-SUFFIX,texxx-433.pages.dev
+DOMAIN-SUFFIX,tunnel-cxp.pages.dev
 
 # 代理补充列表
 DOMAIN-SUFFIX,hdhive.com
