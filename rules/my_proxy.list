@@ -4,7 +4,6 @@ DOMAIN-SUFFIX,githubusercontent.com
 DOMAIN-SUFFIX,dot.sb
 DOMAIN-SUFFIX,dns.umbrella.com
 DOMAIN-SUFFIX,dns.quad9.net
-DOMAIN-SUFFIX,xiaoya.pro
 DOMAIN-SUFFIX,cloudflare-dns.com
 DOMAIN-SUFFIX,doh.dns.sb
 DOMAIN-SUFFIX,doh.opendns.com
@@ -18,7 +17,19 @@ IP-CIDR,185.222.222.222/32,no-resolve
 IP-CIDR,208.67.222.222/32,no-resolve
 IP-CIDR,208.67.220.220/32,no-resolve
 
-
+# ======= 自建与共享 CF 订阅/反代域名隔离 (单独指定走分组) =======
+- DOMAIN-SUFFIX,kont.cc.cd
+- DOMAIN-SUFFIX,kont.ccwu.cc
+- DOMAIN-SUFFIX,1307799.cc.cd
+- DOMAIN,texxx.kont.cc.cd
+- DOMAIN,163tunnel.kont.ccwu.cc
+- DOMAIN,texxx.kont.ccwu.cc
+- DOMAIN,joecf.pages.dev
+- DOMAIN,tunnel.1307799.cc.cd
+- DOMAIN,cfnew.1307799.cc.cd
+- DOMAIN,cf.1307799.cc.cd
+- DOMAIN,texxx-433.pages.dev
+- DOMAIN,tunnel-cxp.pages.dev
 
 # 代理补充列表
 DOMAIN-SUFFIX,hdhive.com
